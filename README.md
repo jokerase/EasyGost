@@ -21,7 +21,7 @@
 ***  
 ## 完整食用教程  
 * 启动脚本: 在已经运行过如下一键脚本的情况下  
-`wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/stsdust/EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
+`wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/smallcat233/EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
 
 ***
